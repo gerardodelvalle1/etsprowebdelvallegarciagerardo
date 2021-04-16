@@ -3,7 +3,8 @@ class MiFooter
   connectedCallback() {
     this.innerHTML = /* html */
       `<p>
-        ETS Programacion Web Del Valle Garcia Gerardo
+        &copy; 2021
+        Ricardo Armando Machorro Reyes.
       </p>`;
   }
 }

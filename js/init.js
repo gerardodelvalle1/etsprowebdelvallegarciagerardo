@@ -1,9 +1,18 @@
-firebase.initializeApp ({
-  apiKey: "AIzaSyAZBgclY0o8oQAKYIpvPxrNNKcBv6NZv_A",
-  authDomain: "etsprowebdelvallegarciagerardo.firebaseapp.com",
-  projectId: "etsprowebdelvallegarciagerardo",
-  storageBucket: "etsprowebdelvallegarciagerardo.appspot.com",
-  messagingSenderId: "67822237849",
-  appId: "1:67822237849:web:9f3dc8bfbb3bf3be182008",
-  measurementId: "G-3HJM17F4J8"
+/*  Inicializa Firebase con la
+ * configuración del proyecto.
+ * Revisa la configuración en tu
+ * servidor de Firebase y cópiala
+ * aquí sustituyendo los
+ * asteriscos. Los campos deben
+ * quedar igual que en tu
+ * servidor. */
+// @ts-ignore
+firebase.initializeApp({
+  apiKey: "AIzaSyDzZxk913MUi3ESjLwNK14W0t1c6HgUOWE",
+  authDomain: "bdfalumnox.firebaseapp.com",
+  projectId: "bdfalumnox",
+  storageBucket: "bdfalumnox.appspot.com",
+  messagingSenderId: "1002536188546",
+  appId: "1:1002536188546:web:cfa9fb33aec119e7fc529b",
+  measurementId: "G-5HHSLWQ24J"
 });
