@@ -15,10 +15,10 @@ export async function
   /** Tipo de autenticación de
    * usuarios. En este caso es con
    * Google.
-   * @type {import(
-      "../lib/tiposFire.js").
-      GoogleAuthProvider} */
-  const provider =
+    @type {import(../lib/tiposFire.js").
+      GoogleAuthProvider}
+  
+  */const provider =
     // @ts-ignore
     new firebase.auth.
       GoogleAuthProvider();

@@ -27,7 +27,7 @@ class MiNav extends HTMLElement {
 
   /**
    * @param {import(
-      "../lib/tiposFire.js").User}
+    ../lib/tiposFire.js").User}
       usu */
   async cambiaUsuario(usu) {
     if (usu && usu.email) {
